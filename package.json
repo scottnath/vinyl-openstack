@@ -1,0 +1,24 @@
+{
+  "name": "vinyl-openstack",
+  "version": "0.0.0",
+  "description": "Vinyl wrapper for storage on openstack Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottnath/vinyl-openstack.git"
+  },
+  "author": "Scott Nath",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/scottnath/vinyl-openstack/issues"
+  },
+  "homepage": "https://github.com/scottnath/vinyl-openstack#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "pkgcloud": "^1.4.0",
+    "through2": "^2.0.3"
+  }
+}
